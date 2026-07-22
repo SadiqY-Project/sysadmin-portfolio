@@ -6,7 +6,7 @@ A collection of practical lab builds focused on enterprise IT infrastructure, co
 
 | No | Project Module | Technology Focus | Status | Repository Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **01** | **Network Configuration & Identity** | Static IP configuration via nmtui, DNS setup, and connectivity testing (ping). | 🟢 Completed | [🔗 View Repo](https://github.com/SadiqY-Project/RHEL-Infrastructure-Portfolio/tree/main/Project-01) |
+| **01** | **Network Configuration** | Static IP configuration via nmtui, DNS setup, and connectivity testing (ping). | 🟢 Completed | [🔗 View Repo](https://github.com/SadiqY-Project/RHEL-Infrastructure-Portfolio/tree/main/Project-01) |
 | **02** | **Logical Storage Architecture** | LVM, Disk Resizing, Data Efficiency | 🟢 Completed | [🔗 View Repo](https://github.com/SadiqY-Project/rhel-lvm-architecture) |
 | **03** | **Observability & Monitoring** | Prometheus, Grafana, Node Exporter | 🟡 In Progress | [🔗 View Repo](URL_REPO_3) |
 | **04** | **Disaster Recovery & Migration** | Image Builder, Backup, Bare-metal restore | ⚪ Upcoming | [🔗 Repository Pending] |
