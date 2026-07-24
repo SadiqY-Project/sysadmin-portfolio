@@ -9,8 +9,8 @@ A collection of practical lab builds focused on enterprise IT infrastructure, co
 | **01** | **Network Configuration** | Static IP configuration via nmtui, DNS setup, and connectivity testing (ping). | 🟢 Completed | [🔗 View Repo](https://github.com/SadiqY-Project/RHEL-Infrastructure-Portfolio/tree/main/Project-01) |
 | **02** | **Logical Storage Architecture** | LVM, Disk Resizing, Data Efficiency | 🟢 Completed | [🔗 View Repo](https://github.com/SadiqY-Project/rhel-lvm-architecture) |
 | **03** | **Observability & Monitoring** | Prometheus, Grafana, Node Exporter | 🟢 Completed | [🔗 View Repo](https://github.com/SadiqY-Project/prometheus-grafana-rhel10) |
-| **04** | **Disaster Recovery & Migration** | Image Builder, Backup, Bare-metal restore | 🟢 Completed  | [🔗 View Repo](https://github.com/SadiqY-Project/rhel10-disaster-recovery) |
-| **05** | **Windows AD Infrastructure** | Domain Controller, GPO, User Management | ⚪ Upcoming | [🔗 Repository Pending] |
+| **04** | **Enterprise Disaster Recovery & OS Provisioning** | Image Builder (osbuild), qcow2, tar archiving, Bare-metal restore | 🟢 Completed  | [🔗 View Repo](https://github.com/SadiqY-Project/rhel10-disaster-recovery) |
+| **05** | **Cross-Platform AD Integration** | realmd, SSSD, Kerberos Authentication, oddjob-mkhomedir | 🟢 Completed  | [🔗 View Repo](https://github.com/SadiqY-Project/rhel-windows-ad-lab) |
 | **06** | **Hybrid Identity & MDM Lab** | FreeIPA + Windows AD Trust, Intune/GPO | ⚪ Upcoming | [🔗 Repository Pending] |
 
 ---
