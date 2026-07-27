@@ -11,7 +11,6 @@ A collection of practical lab builds focused on enterprise IT infrastructure, co
 | **03** | **Observability & Monitoring** | Prometheus, Grafana, Node Exporter | 🟢 Completed | [🔗 View Repo](https://github.com/SadiqY-Project/prometheus-grafana-rhel10) |
 | **04** | **Enterprise Disaster Recovery & OS Provisioning** | Image Builder (osbuild), qcow2, tar archiving, Bare-metal restore | 🟢 Completed  | [🔗 View Repo](https://github.com/SadiqY-Project/rhel10-disaster-recovery) |
 | **05** | **Cross-Platform AD Integration** | realmd, SSSD, Kerberos Authentication, oddjob-mkhomedir | 🟢 Completed  | [🔗 View Repo](https://github.com/SadiqY-Project/rhel-windows-ad-lab) |
-| **06** | **Hybrid Identity & MDM Lab** | FreeIPA + Windows AD Trust, Intune/GPO | ⚪ Upcoming | [🔗 Repository Pending] |
-
+| **06** | **Enterprise Identity Management & Cross-Forest Trust Lab** | RHEL 10, FreeIPA IdM, Windows Active Directory, Kerberos, SSSD, Centralized RBAC | 🟢 Completed  | [🔗 View Repo](https://github.com/SadiqY-Project/rhel10-freeipa-ad-trust) |
 ---
 *Built and managed entirely by a Systems Administrator.*
